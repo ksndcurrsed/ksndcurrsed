@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Artem 👋 — Python backend developer passionate about automation, APIs, and bots. 
 
 <div id="badges">
   <a href="https://t.me/h47zx">

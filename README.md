@@ -32,7 +32,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgre" alt="PostgreSQL" width="40" height="40/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="postman" alt="Postman" width="40" height="40/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-plain.svg" title="sqlalchemy" alt="SQLAlchemy" width="40" height="40/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-plain.svg" title="sqlalchemy" alt="SQLAlchemy" width="40" height="40/>&nbsp;
   
 </div>
 

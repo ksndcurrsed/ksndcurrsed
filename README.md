@@ -7,6 +7,8 @@
 </div>
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksndcurrsed&layout=compact&theme=radical)
+---
 
 - 🙌 I’m studying in university and constantly developing and looking for a job as a Python backend developer  
 - ⚡ In my free time, I write some pet projects and wanna tell you about them!  

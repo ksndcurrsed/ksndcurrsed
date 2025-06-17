@@ -1,7 +1,7 @@
 ## Hi, I'm Artem 👋 — Python backend developer passionate about automation, APIs, and bots. 
 
 <div id="badges">
-  <a href="https://t.me/h47zx">
+  <a href="https://t.me/artem_plokhoi">
     <img src="https://img.shields.io/badge/Telegram--%3E-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
@@ -12,7 +12,7 @@
 
 - 🙌 I’m studying in university and constantly developing and looking for a job as a Python backend developer  
 - ⚡ In my free time, I write some pet projects and wanna tell you about them!  
-- 📬 How to reach me: Telegram [@h47zx](https://t.me/h47zx)
+- 📬 How to reach me: Telegram [@artem_plokhoi](https://t.me/artem_plokhoi)
 
 ---
 

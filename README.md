@@ -9,10 +9,6 @@ Python Backend Developer focused on building real-world systems: APIs, automatio
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksndcurrsed&layout=compact&theme=radical)
-
----
-
 ## 🚀 About Me
 
 - 🧠 2+ years of commercial experience (freelance + outsource)
